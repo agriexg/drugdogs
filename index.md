@@ -1,4 +1,4 @@
-![Drug Dogs Logo](https://agriexg.github.io/drugdogs/DG%Logo.png)
+![Drug Dogs Logo](https://github.com/agriexg/drugdogs/blob/main/DG-Logo.png)
 
 Agri Executive Group is a KwaZulu-Natal (KZN) based K9 unit specializing in K9 Narcotics Detection.
 
